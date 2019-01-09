@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+
+    <script>
+        var S,dai, rong;
+        dai = 5;
+        rong = 2;
+        S = dai * rong;
+        document.write("dien tich la S " +S);
+
+    </script>
+</body>
+</html>
